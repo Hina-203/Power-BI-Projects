@@ -10,8 +10,8 @@ Geographical Insights: Visualize regional performance through maps and identify 
 Dynamic Interactivity: Interactive filters and slicers for better data exploration.
 
 🗂️ Files Included
-StoreSales _Dashboard.pbix: The Power BI dashboard file.
-Dataset/Sample_Superstore.csv: The sample data used for this analysis.
+Store Sales dashboard.pbix: The Power BI dashboard file.
+Orders and Detais: The sample data used for this analysis.
 README.md: This documentation file.
 
 🛠️ Tools Used
@@ -27,4 +27,4 @@ Explore the interactive dashboard and customize it as needed.
 Contributions are welcome! If you'd like to improve the dashboard or add new features, feel free to fork the repository and submit a pull request.
 
 📧 Contact
-If you have questions, feel free to reach out at: your-email@example.com.
+If you have questions, feel free to reach out at: hinav832@gmail.com 
