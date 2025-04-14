@@ -27,4 +27,5 @@ Explore the interactive dashboard and customize it as needed.
 Contributions are welcome! If you'd like to improve the dashboard or add new features, feel free to fork the repository and submit a pull request.
 
 📧 Contact
-If you have questions, feel free to reach out at: hinav832@gmail.com 
+If you have questions, feel free to reach out at: mhinaverma20@gmail.com
+
